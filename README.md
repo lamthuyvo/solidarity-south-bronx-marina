@@ -1,4 +1,4 @@
-# Analysis of ontributions to South Bronx City Council Candidates from Solidarity PAC Donors # 
+# Analysis of Contributions to South Bronx City Council Candidates from Solidarity PAC Donors # 
 
 This repository contains data and code analyzing Board of Elections Solidarity PAC Contributions data and New York City Campaign Finance Data for candidates Clarisa Alayeto and Raymond Santana
 
